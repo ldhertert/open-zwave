@@ -37,3 +37,5 @@ OZWForm.vshost.exe.manifest
 .gitignore
 /cpp/build/windows/winversion.cpp
 .distfiles
+*.suo
+cpp/build/windows/vs2013/OpenZWave.sdf
